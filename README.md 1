@@ -1,0 +1,20 @@
+# Code-Refactory: 01 Html, CSS, and Git
+
+##Switched Div over to Semantic Elements and Dry coded CSS
+
+In this code I cleaned up everything and made sure it was orginized properly
+
+
+1.Title was given a new name 
+
+2. Changed the size of the header
+
+3.Alternatives where added to images just in case the image was broken
+
+4.Rulesets in CSS were condensed due to repititative qualities
+
+5.Css and html were corrected to the proper symantic elements
+
+6. Comments were left in order to give a descriptive nature to what was changed
+
+
